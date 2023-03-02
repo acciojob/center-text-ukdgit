@@ -1,3 +1,5 @@
 h1{
+	display:flex;
 	font-size:15px;
+	align-item:center;
 }
